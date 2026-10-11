@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/jaak-s/BayesianDataFusion.jl.svg?branch=master)](https://travis-ci.org/jaak-s/BayesianDataFusion.jl)
 
 Implementation of data fusion methods in Julia, specifically **Macau**, **BPMF** (Bayesian Probabilistic Matrix Factorization). Supported features:
-* Factorization of matrices (without or with side information)
+* Factorization of matrices (without or with side information)c
 * Factorization of tensors (without or with side information)
 * Co-factorization of multiple matrices and tensors (any side information is
   possible)
